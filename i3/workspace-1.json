@@ -1,0 +1,156 @@
+// vim:ts=4:sw=4:et
+{
+    // floating_con with 1 children
+    "border": "normal",
+    "floating": "auto_off",
+    "layout": "splith",
+    "percent": null,
+    "rect": {
+       "height": 500,
+       "width": 951,
+       "x": 3,
+       "y": 577
+    },
+    "type": "floating_con",
+    "nodes": [
+        {
+            "border": "none",
+            "current_border_width": 2,
+            "floating": "user_on",
+            "geometry": {
+               "height": 490,
+               "width": 744,
+               "x": 0,
+               "y": 0
+            },
+            "name": "osboxes@osboxes: ~",
+            "percent": 1,
+            "swallows": [
+               {
+                "class": "^Gnome\\-terminal$"
+               // "instance": "^gnome\\-terminal\\-server$",
+               // "title": "^osboxes\\@osboxes\\:\\ \\~$",
+               // "window_role": "^gnome\\-terminal\\-window\\-98133aaa\\-e5a6\\-4b16\\-82e3\\-e508af9a0da7$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    // floating_con with 1 children
+    "border": "normal",
+    "floating": "auto_off",
+    "layout": "splith",
+    "percent": null,
+    "rect": {
+       "height": 539,
+       "width": 952,
+       "x": 0,
+       "y": 41
+    },
+    "type": "floating_con",
+    "nodes": [
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "user_on",
+            "geometry": {
+               "height": 890,
+               "width": 1916,
+               "x": 2,
+               "y": 58
+            },
+            "name": "● nnnnnnnnnnnnnnnn - Visual Studio Code",
+            "percent": 1,
+            "swallows": [
+               {
+                "class": "^Code$"
+               // "instance": "^code$",
+               // "title": "^\\●\\ nnnnnnnnnnnnnnnn\\ \\-\\ Visual\\ Studio\\ Code$",
+               // "window_role": "^browser\\-window$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    // floating_con with 1 children
+    "border": "normal",
+    "floating": "auto_off",
+    "layout": "splith",
+    "percent": null,
+    "rect": {
+       "height": 1066,
+       "width": 550,
+       "x": 954,
+       "y": 40
+    },
+    "type": "floating_con",
+    "nodes": [
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "user_on",
+            "geometry": {
+               "height": 950,
+               "width": 1916,
+               "x": 0,
+               "y": 0
+            },
+            "name": "Mozilla Firefox",
+            "percent": 1,
+            "swallows": [
+               {
+                "class": "^Firefox$"
+               // "instance": "^Navigator$",
+               // "title": "^Mozilla\\ Firefox$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    // floating_con with 1 children
+    "border": "normal",
+    "floating": "auto_off",
+    "layout": "splith",
+    "percent": null,
+    "rect": {
+       "height": 1046,
+       "width": 419,
+       "x": 1502,
+       "y": 39
+    },
+    "type": "floating_con",
+    "nodes": [
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "user_on",
+            "geometry": {
+               "height": 600,
+               "width": 800,
+               "x": 800,
+               "y": 105
+            },
+            "name": "Telegram (126954)",
+            "percent": 1,
+            "swallows": [
+               {
+                "class": "^TelegramDesktop$"
+               // "instance": "^telegram\\-desktop$",
+               // "title": "^Telegram\\ \\(126954\\)$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+

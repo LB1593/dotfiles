@@ -1,0 +1,47 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "none",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 490,
+       "width": 744,
+       "x": 0,
+       "y": 0
+    },
+    "name": "osboxes@osboxes: ~/.config/i3",
+    "percent": 0.5,
+    "swallows": [
+       {
+        "class": "^Gnome\\-terminal$"
+       // "instance": "^gnome\\-terminal\\-server$",
+       // "title": "^osboxes\\@osboxes\\:\\ \\~\\/\\.config\\/i3$",
+       // "window_role": "^gnome\\-terminal\\-window\\-7482c7ef\\-3b6c\\-4b21\\-b9cf\\-8363fabc2c21$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "none",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 490,
+       "width": 744,
+       "x": 0,
+       "y": 0
+    },
+    "name": "osboxes@osboxes: ~",
+    "percent": 0.5,
+    "swallows": [
+       {
+       // "class": "^Gnome\\-terminal$",
+       // "instance": "^gnome\\-terminal\\-server$",
+       // "title": "^osboxes\\@osboxes\\:\\ \\~$",
+       // "window_role": "^gnome\\-terminal\\-window\\-972eaae2\\-5c58\\-4b31\\-893f\\-666b61ddd88e$"
+       }
+    ],
+    "type": "con"
+}
+
